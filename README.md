@@ -1,8 +1,8 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
-## DATE: 12.05.2025
-## NAME: BASKAR J
-## REG NO: 212223040025
+## DATE: 22-5-2025
+## NAME: RAMKUMAR G
+## REG NO: 212223220084
 
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
@@ -59,7 +59,8 @@ return 0;
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/934a4e1c-90d5-4fff-b9aa-99ecf96344fa)
+![Screenshot 2025-05-22 175541](https://github.com/user-attachments/assets/492da5ab-616e-4721-96b4-52e5a8bd93f8)
+
 
 
 ## Result:
